@@ -3,4 +3,4 @@ Jogo criado atravez do curso JavaScript: validações e reconhecimento de voz da
 
 Link do projeto finalizado: https://jogo-numero-secreto-lake-nine.vercel.app/
 
-Obs: O principal mecanismo desse jogo é o reconhecimento de voz portanto é necessário permitir que o navegador utilize seu microfone
+Obs: O principal mecanismo desse jogo é o reconhecimento de voz portanto é necessário dar permissão ao navegador para utilizar seu microfone
